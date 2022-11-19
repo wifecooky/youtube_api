@@ -4,7 +4,7 @@ import requests
 import json
 
 CHANNEL_ID = 'UCFo4kqllbcQ4nV83WCyraiw'
-YOUTUBE_API_KEY = 'AIzaSyAUSXeY5S3P7wkWq8Pir_YB3B2_jDURg9w'
+YOUTUBE_API_KEY = 'AxxxIzaSyAUSXeY5S3P7wkWq8Pir_YB3B2_jDURg9wxxx_replace_it_with_yours'
 
 # Get youtube channel followers
 def get_youtube_channel_followers():
